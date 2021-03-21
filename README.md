@@ -6,6 +6,12 @@ This project uses a QT Py board from Adafruit, A battery backpack board from Oak
 The QT Py checks your current location then calculates  the location of the International Space Station (ISS) using a recent Two Line Element.
 The ISS location is shown on a World map along with the location for the previous and next 50 minutes.
 
+The neopixel on the QT Py board lights up when the ISS is above the horizon.
+
+There is also a version that runs on a smaller (cheaper) SSD1306 128x64 pixel OLED.
+
+Total cost to make this project should be less than $25.
+
 ![Mini Mobile Mission Control](https://github.com/OkuboHeavyIndustries/Mini-Mobile-Mission-Control/blob/74784d850107647306428a71729298652873720b/IMG_3743.png)
 
 If you make this or use the code please let me know. 
