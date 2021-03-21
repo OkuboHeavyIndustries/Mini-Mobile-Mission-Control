@@ -14,7 +14,7 @@ Total cost to make this project should be less than $25.
 
 ![Mini Mobile Mission Control](https://github.com/OkuboHeavyIndustries/Mini-Mobile-Mission-Control/blob/74784d850107647306428a71729298652873720b/IMG_3743.png)
 
-If you make this or use the code please let me know. 
+If you make this or use the code please let me know - I'd love to see a picture! 
 
 Twitter @okuboheavyind, reddit okuboheavyindustries and Instagram @okuboheavyindustries
 
