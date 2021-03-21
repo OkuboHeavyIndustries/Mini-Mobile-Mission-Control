@@ -10,7 +10,7 @@ The ISS location is shown on a World map along with the location for the previou
 
 If you make this or use the code please let me know. 
 
-Twitter, reddit and Instagram name is Okuboheavyindustries
+Twitter @okuboheavyind, reddit okuboheavyindustries and Instagram @okuboheavyindustries
 
 If you like this project and can afford it please feel free to send me a cup of coffee!
 
