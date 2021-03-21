@@ -18,7 +18,7 @@ If you make this or use the code please let me know.
 
 Twitter @okuboheavyind, reddit okuboheavyindustries and Instagram @okuboheavyindustries
 
-If you like this project and can afford it please feel free to send me a cup of coffee!
+If you like this project and can afford it please send me a cup of coffee!
 
 Bitcoin: 19H3zFF4W3zUZ3jAdjmiDNNLs8Ja46M6AD
 
