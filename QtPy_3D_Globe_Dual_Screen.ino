@@ -1,5 +1,5 @@
-//12th June 2023
-//QtPy Globe by Okubo Heavy Industries based on
+//25th June 2023
+//QtPy 3D Globe Dual Screen ISS Tracker by Okubo Heavy Industries based on
 //3D_Cube for Arduino OLED module by Colin Ord, 9/1/2015
 
 #include <U8g2lib.h>
@@ -87,7 +87,7 @@ int ylatb;
 int orb;
 int gpschar;
 
-int radius = 74;  //ISS orbital radius - should be 69
+int radius = 74;  //ISS orbital radius - should be about 69
 
 double lat_val, lng_val, alt_m_val;
 uint8_t hr_val, min_val, sec_val, hr_val_jp, sats_val;
@@ -449,39 +449,6 @@ orb = orb + 1;
           
     }while (OLED_2.nextPage());
 
- 
- /*scalefactor = 0;
-  clearOLED();
-  delay(2000);
-  u8g2.clearBuffer();
-    u8g2.setDrawColor(1);
-    u8g2.drawBox(0,0,64,128);
-    u8g2.sendBuffer();
-    delay(100);
-    u8g2.setDrawColor(0);
-    u8g2.clearBuffer();
-    u8g2.drawBox(0,0,64,128);
-    u8g2.sendBuffer();
-    delay(500);
-    //cursor flash
-    for (int i = 0; i < 3; i++) {
-    
-    u8g2.setDrawColor(1);
-    u8g2.clearBuffer();
-    u8g2.drawBox(1,1,3,5);
-    u8g2.sendBuffer();
-    delay(300);
-    
-    u8g2.clearBuffer();
-    u8g2.setDrawColor(0);
-    u8g2.drawBox(1,1,3,5);
-    u8g2.sendBuffer();
-    delay(300);
-    }
-   
-    u8g2.setDrawColor(1);
-    u8g2.clearBuffer();
-    */
 }
 
 void clearOLED(){
