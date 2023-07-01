@@ -2,6 +2,11 @@
 //QtPy ESP32 S2 Live Data ISS Dual Screen Tracker by Okubo Heavy Industries based on
 //3D_Cube for Arduino OLED module by Colin Ord, 9/1/2015
 
+/*Buy me a coffee!
+Bitcoin: 19H3zFF4W3zUZ3jAdjmiDNNLs8Ja46M6AD
+ETH: 0xD656DB37b61ac30Fa1e16a3162719FE417b231C8
+*/
+
 #include <U8g2lib.h>
 #include <AioP13.h>
 #include <TinyGPS++.h> 
