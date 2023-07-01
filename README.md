@@ -12,6 +12,8 @@ There is also a version that runs on a smaller (cheaper) SSD1306 128x64 pixel OL
 
 Total cost to make this project should be less than $25.
 
+The updated version uses a QtPy ESP32 S2 which downloads the TLE from the web on startup so that the data is always fairly accurate and uses two SSD1306 OLEDs and a BE-280 GPS board.
+
 ![Mini Mobile Mission Control](https://github.com/OkuboHeavyIndustries/Mini-Mobile-Mission-Control/blob/74784d850107647306428a71729298652873720b/IMG_3743.png)
 
 If you make this or use the code please let me know - I'd love to see a picture! 
