@@ -7,7 +7,7 @@
 #include <Adafruit_NeoPixel.h>
 Adafruit_NeoPixel pixels(1, PIN_NEOPIXEL);
 /*
- * Copy and paste the latest TLE for ISS from here - https://celestrak.com/satcat/tle.php?CATNR=25544
+ * Copy and paste the latest TLE for ISS from here - https://celestrak.com/NORAD/elements/gp.php?CATNR=25544&FORMAT=tle
  * 
 ISS (ZARYA)             
 1 25544U 98067A   21080.03331738  .00000347  00000-0  14509-4 0  9996
